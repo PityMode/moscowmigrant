@@ -2,11 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://moscowmigrant.com/posts/am-i-to-blame-for-this-war/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
+    <loc>https://moscowmigrant.com/tags/7-40/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/tags/7-40/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/tags/7-40/"
+                />
   </url><url>
     <loc>https://moscowmigrant.com/tags/authority/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="ru"
@@ -27,6 +37,163 @@
                 hreflang="en"
                 href="https://moscowmigrant.com/tags/authority/"
                 />
+  </url><url>
+    <loc>https://moscowmigrant.com/posts/putin-koschei-needle-is-located-in-crimea/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/posts/putin-koschei-needle-is-located-in-crimea/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/posts/putin-koschei-needle-is-located-in-crimea/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/tags/politics/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/tags/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/tags/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/tags/politics/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/tags/politics/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/posts/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/posts/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/tags/russia/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/tags/russia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/tags/russia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/tags/russia/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/tags/russia/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/tags/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/tags/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/tags/transcribing/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/tags/transcribing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/tags/transcribing/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/tags/yakovenko/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://moscowmigrant.com/ru/tags/yakovenko/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://moscowmigrant.com/tags/yakovenko/"
+                />
+  </url><url>
+    <loc>https://moscowmigrant.com/posts/am-i-to-blame-for-this-war/</loc>
+    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moscowmigrant.com/tags/crime/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
@@ -74,29 +241,6 @@
                 href="https://moscowmigrant.com/tags/mind/"
                 />
   </url><url>
-    <loc>https://moscowmigrant.com/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://moscowmigrant.com/ru/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moscowmigrant.com/"
-                />
-  </url><url>
     <loc>https://moscowmigrant.com/tags/officials/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -120,52 +264,6 @@
                 href="https://moscowmigrant.com/tags/officials/"
                 />
   </url><url>
-    <loc>https://moscowmigrant.com/tags/politics/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://moscowmigrant.com/ru/tags/politics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/politics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/tags/politics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moscowmigrant.com/tags/politics/"
-                />
-  </url><url>
-    <loc>https://moscowmigrant.com/posts/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://moscowmigrant.com/ru/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moscowmigrant.com/posts/"
-                />
-  </url><url>
     <loc>https://moscowmigrant.com/tags/problem/</loc>
     <lastmod>2023-05-14T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -187,52 +285,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://moscowmigrant.com/tags/problem/"
-                />
-  </url><url>
-    <loc>https://moscowmigrant.com/tags/russia/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://moscowmigrant.com/ru/tags/russia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/russia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/tags/russia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moscowmigrant.com/tags/russia/"
-                />
-  </url><url>
-    <loc>https://moscowmigrant.com/tags/</loc>
-    <lastmod>2023-05-14T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru"
-                href="https://moscowmigrant.com/ru/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moscowmigrant.com/tags/"
                 />
   </url><url>
     <loc>https://moscowmigrant.com/tags/yourself/</loc>
