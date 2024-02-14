@@ -24,11 +24,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/authority/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ua"
                 href="https://moscowmigrant.com/ua/tags/authority/"
                 />
@@ -60,13 +55,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -80,11 +75,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://moscowmigrant.com/ru/tags/politics/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/politics/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -106,11 +96,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ua"
                 href="https://moscowmigrant.com/ua/posts/"
                 />
@@ -129,13 +114,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/russia/"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/tags/russia/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/tags/russia/"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/tags/russia/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -152,13 +137,13 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/"
+                hreflang="ua"
+                href="https://moscowmigrant.com/ua/tags/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="ua"
-                href="https://moscowmigrant.com/ua/tags/"
+                hreflang="rs"
+                href="https://moscowmigrant.com/rs/tags/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -209,11 +194,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/crime/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="en"
                 href="https://moscowmigrant.com/tags/crime/"
                 />
@@ -250,11 +230,6 @@
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/officials/"
-                />
-    <xhtml:link
-                rel="alternate"
                 hreflang="ua"
                 href="https://moscowmigrant.com/ua/tags/officials/"
                 />
@@ -270,11 +245,6 @@
                 rel="alternate"
                 hreflang="ru"
                 href="https://moscowmigrant.com/ru/tags/problem/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/problem/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -309,34 +279,6 @@
                 hreflang="en"
                 href="https://moscowmigrant.com/tags/yourself/"
                 />
-  </url><url>
-    <loc>https://moscowmigrant.com/tags/education/</loc>
-    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moscowmigrant.com/tags/kids/</loc>
-    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moscowmigrant.com/tags/law/</loc>
-    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moscowmigrant.com/posts/school-violence-and-shooting/</loc>
-    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://moscowmigrant.com/tags/serbia/</loc>
-    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="rs"
-                href="https://moscowmigrant.com/rs/tags/serbia/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://moscowmigrant.com/tags/serbia/"
-                />
-  </url><url>
-    <loc>https://moscowmigrant.com/tags/social/</loc>
-    <lastmod>2023-05-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://moscowmigrant.com/about/</loc>
     <lastmod>2023-05-01T00:00:00+00:00</lastmod>
